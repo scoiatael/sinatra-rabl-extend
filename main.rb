@@ -23,6 +23,6 @@ class Main < Sinatra::Base
       a.c = 3
     end
 
-    rabl :'a'
+    rabl :'a/a'
   end
 end
